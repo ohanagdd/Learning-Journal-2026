@@ -1,3 +1,3 @@
 # My Learning Journal
-## 26 10 2026
+add a title and a date 
 What the problem is , what you did or how you tried to solve it
